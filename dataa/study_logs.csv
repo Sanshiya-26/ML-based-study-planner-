@@ -1,0 +1,7 @@
+hours_per_day,days_per_week,preferred_style,recommended_topic
+2,5,article,Python Basics
+4,4,practice,Pandas
+3,6,article,NumPy
+5,3,practice,Statistics
+1,7,article,Data Visualization
+6,2,practice,Machine Learning
